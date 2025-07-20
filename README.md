@@ -1,11 +1,15 @@
 # ReStockIQ
 
 #Problem Summary
+
 Small and medium warehouses or retail businesses often face:
 
 --Overstocking or stockouts
+
 --Expiry or slow-moving goods
+
 --Manual inventory management
+
 --Poor cash flow due to dead stock
 
 # ReStockIQ is An AI-powered, user-friendly platform that:
